@@ -1,2 +1,2 @@
 # chat-system
-chat system to edit ,create and delete
+chat system to edit ,create and delete.
